@@ -9,7 +9,7 @@
 
 ## Demo
 ### Adding New Task
-![alt text](https://github.com/krutikJain/Taskly/blob/main/1.gif)
+https://user-images.githubusercontent.com/38549506/160169094-f71bc060-cfcc-4c97-81ea-f68ccff5892e.mp4
 
 ### Offline database Demo
-![alt text](https://github.com/krutikJain/Taskly/blob/main/2.gif)
+https://user-images.githubusercontent.com/38549506/160169200-26bc8ade-9b8f-4d00-8246-d440620b2eda.mp4
